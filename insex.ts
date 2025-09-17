@@ -1,5 +1,5 @@
 
-// Verisão Original
+// Versão Original
 const somaList = () => {
     const list_number = [2, 4, 5, 7, 11, 13, 15, 22, 25];
         
@@ -111,4 +111,5 @@ try {
 } catch (error) {
     console.error('Erro capturado:', error.message);
 }
+
 
